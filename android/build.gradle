@@ -84,5 +84,5 @@ protobuf {
 }
 
 dependencies {
-    implementation 'com.google.protobuf:protobuf-lite:3.0.1'
+    implementation 'com.google.protobuf:protobuf-java:3.4.0'
 }
